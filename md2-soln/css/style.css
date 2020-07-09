@@ -41,15 +41,17 @@ h2 {
 
 #Kedarnath {
 	background-color: #2a52be;
+	color: white;
 }
 
 #Tungnath {
 	background-color: #add8e6;
-	color: white;
+	color: black;
 }
 
 #Badrinath {
 	background-color: #000080;
+	color:white;
 }
 
 /********** Large devices only **********/
